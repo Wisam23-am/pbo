@@ -1,6 +1,6 @@
 package maincomponent;
 
-import src.core.Component;
+import core.Component;
 
 public class Motherboard extends Component {
     public Motherboard(String name, double price) {

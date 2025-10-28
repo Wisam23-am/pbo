@@ -1,6 +1,6 @@
 package storage;
 
-import src.core.Component;
+import core.Component;
 
 public class Flashdisk extends Component {
     public Flashdisk(String name, double price) {

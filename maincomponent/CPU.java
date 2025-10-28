@@ -1,6 +1,6 @@
 package maincomponent;
 
-import src.core.Component;
+import core.Component;
 
 public class CPU extends Component {
     public CPU(String name, double price) {

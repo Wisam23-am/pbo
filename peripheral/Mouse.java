@@ -1,6 +1,6 @@
 package peripheral;
 
-import src.core.Component;
+import core.Component;
 
 public class Mouse extends Component {
     public Mouse(String name, double price) {

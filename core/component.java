@@ -1,4 +1,5 @@
-package src.core;
+// Nama file ini seharusnya: core/Component.java
+package core;
 
 // Abstract class untuk semua komponen PC
 public abstract class Component {
@@ -20,6 +21,6 @@ public abstract class Component {
 
     @Override
     public String toString() {
-        return name + " ($" + price + ")";
+        return name + " (IDR" + price + ")";
     }
 }

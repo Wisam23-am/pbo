@@ -1,6 +1,6 @@
 package peripheral;
 
-import src.core.Component;
+import core.Component;
 
 public class Keyboard extends Component {
     public Keyboard(String name, double price) {

@@ -1,6 +1,6 @@
 package storage;
 
-import src.core.Component;
+import core.Component;
 
 public class SSD extends Component {
     public SSD(String name, double price) {
